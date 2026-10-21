@@ -7,4 +7,4 @@ Contains:
     main.py - driver program
 lexer.py and parser.py uses lines from the example lexer and parser shown in class.
 Run python3 main.py testfile.ml in the terminal. Replace the testfile with whatever the .ml file is called.
-From this folder (CSE 307 Hw1) with a MiniML source file added, run: python3 main.py testfile.ml. Replace the testfile with whatever the name of the file is called eg. test1, test2 etc.
+From this folder with a MiniML source file added, run: python3 main.py testfile.ml. Replace the testfile with whatever the name of the file is called eg. test1, test2 etc.
